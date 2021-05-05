@@ -1,0 +1,18 @@
+body
+	{
+	background-color: lightgrey;
+	}
+
+a:link
+	{
+		color: green;
+		background-color: lightblue;
+		text-decoration: none;
+	}
+
+	a:visited
+		{
+			color: orange
+			background-color: red;
+			text-decoration: none;
+		}
